@@ -1,5 +1,6 @@
 #include "pch.h"
-#include "Vector.cpp"
+//#include "Vector.cpp"
+#include "..//SoftwareTestingProject/Vector.cpp"
 
 
 Vector v = Vector(5.0f, 7.0f, 1.0f);
