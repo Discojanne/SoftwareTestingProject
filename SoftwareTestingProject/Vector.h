@@ -1,9 +1,10 @@
 #pragma once
 
+
 class Vector {
 public:
 	Vector();
-	Vector(float x, float y, float z);
+	/*Vector(float x, float y, float z);
 	~Vector();
 
 	float Length();
@@ -11,7 +12,7 @@ public:
 	Vector Cross(Vector v);
 	float X();
 	float Y();
-	float Z();
+	float Z();*/
 private:
 	float m_x;
 	float m_y;
