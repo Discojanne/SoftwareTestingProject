@@ -7,8 +7,6 @@ int main() {
 	
 	Vector v;
 	
-	raswrfgregbrdhtdrshfd
-	
 	char* a = new char[20];
 	std::cin >> a;
 	delete[] a;
